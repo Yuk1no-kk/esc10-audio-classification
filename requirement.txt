@@ -1,0 +1,14 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+torch==2.6.0+cu124
+numpy
+pandas
+scipy
+scikit-learn
+librosa
+soundfile
+matplotlib
+seaborn
+pytest
+tqdm
+PyYAML
